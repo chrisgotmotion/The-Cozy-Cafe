@@ -1,0 +1,25 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: baorder-box;
+}
+body{
+    background-image: url("Coffee.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span{
+    color:blueviolet;
+}
+.about p{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.about dl{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 10px;
+}
